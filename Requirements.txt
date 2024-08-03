@@ -1,3 +1,4 @@
 python (v3.9+)
 llama_cpp_python library
 nicegui library
+pywebview library
