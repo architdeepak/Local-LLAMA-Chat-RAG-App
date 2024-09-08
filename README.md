@@ -3,7 +3,7 @@
 These are the following instructions for running a local chat and RAG application to communicate with Llama for CPU-based inference.
 
 # Step 1: 
-Open terminal and install the nicegui, llama-cpp, langchain, langchain_community, langchain_core, and torch packages. 
+Open terminal and install the nicegui, llama-cpp, langchain, langchain_community, langchain_core, torch, and pywebview packages. 
 ```
 pip install nicegui
 pip install llama-cpp
@@ -11,7 +11,8 @@ pip install langchain
 pip install langchain_community
 pip install langchain_core
 pip install torch
-``` 
+pip install pywebview
+```
 # Step 2: 
 Navigate to [Hugging Face]([url](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main)) to download the [llama-2–7b-chat.Q2_K.gguf]([url](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main)) file: 
 [https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main](url). Other model versions also work, as long as they are llama-cpp supported.
