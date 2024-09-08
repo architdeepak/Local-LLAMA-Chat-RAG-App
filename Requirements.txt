@@ -1,4 +1,8 @@
 python (v3.9+)
-llama_cpp_python library
-nicegui library
-pywebview library
+llama_cpp_python 
+nicegui 
+pywebview 
+langchain 
+langchain_community
+langchain_core
+torch
