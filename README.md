@@ -18,13 +18,13 @@ Navigate to [Hugging Face]([url](https://huggingface.co/TheBloke/Llama-2-7B-Chat
 [https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main](url). Other model versions also work, as long as they are llama-cpp supported.
 
 # Step 3: 
-Clone this github repo into a folder. Move the downloaded Llama model into the same folder.
+Clone this GitHub repo into a folder. Move the downloaded Llama model into the same folder.
 
 # Step 4: 
-Go to file explorer and open the designated folder. Open the runapp.py file.
+Go to File Explorer and open the designated folder. Open the runapp.py file.
 
 # Step 5: 
-Ensure that the model_path parameter is set to correct path to the model file (just the file name if all steps have been followed properly).
+Ensure that the model_path parameter is set to the correct path to the model file (just the file name if all steps have been followed properly).
 
 ```
 model_path = [file name]
