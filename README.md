@@ -1,13 +1,9 @@
-# LLAMA2-ChatUI-CPU
+# LLAMA2-Chat+RAGAPP-CPU
 
-These are the following instructions for running a local application to communicate with Llama 2 or other LLMs for CPU-based inference.
+These are the following instructions for running a local chat application to communicate with Llama 2 or other LLMs for CPU-based inference. 
 
 # Step 1: 
-Open terminal and install nicegui.
-
-
-
-Then install llama-cpp.
+Open terminal and install nicegui, llama-cpp, langchain, torch, langchain_community, and langchain_core.
 
 
 
