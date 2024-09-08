@@ -1,6 +1,6 @@
-# LLAMA Chat+RAG App for CPU
+# LLAMA Chat+RAG GUI for CPU
 
-These are the following instructions for running a local chat and RAG application to communicate with Llama for CPU-based inference.
+These are the following instructions for running a local chat and RAG GUI to communicate with Llama for CPU-based inference.
 
 # Step 1: 
 Open terminal and install the nicegui, llama-cpp, langchain, langchain_community, langchain_core, torch, and pywebview packages. 
@@ -38,12 +38,12 @@ python runapp.py
 ```
 
 # Step 7: 
-The app should popup in your desktop. Enjoy chatting with Llama!
+The GUI should popup in your desktop. Enjoy chatting with Llama!
 
 <img width="444" alt="image" src="https://github.com/user-attachments/assets/ec432c2f-977f-4355-94c1-cc2def292ce2">
 
 # Step 8:
-To use the RAG capability, navigate to the upload tab on the app and upload your file. You can now chat with Llama about your uploaded content.
+To use the RAG capability, navigate to the upload tab on the GUI and upload your file. You can now chat with Llama about your uploaded content.
 
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/ef92399b-1246-4f7a-a0d6-622ad5b54d37">
 
